@@ -26,4 +26,4 @@ code.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-<img src>="img/github.jpg"
+![](IMG/github.jpg)
