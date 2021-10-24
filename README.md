@@ -3,6 +3,11 @@
 [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
 
 
+![](IMG/github.jpg)
+
+
+
+
 ## Installation 
 Öncelikle projeyi cloneladım.
 
@@ -26,4 +31,3 @@ code.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![](IMG/github.jpg)
